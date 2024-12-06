@@ -30,3 +30,9 @@ We are more than just a GitHub community; we are a collaborative platform dedica
 - First-time open-source contributors
 - Passionate about technology
 - Ready to learn and grow
+
+
+
+Links
+- ![CODE_OF_CONDUCT](../CODE_OF_CONDUCT.md)
+- ![INVITATION](../INVITATION.md)
