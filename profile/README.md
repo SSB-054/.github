@@ -1,4 +1,3 @@
-# SSB-054 Open Source Community
 SSB-054 is a collaborative GitHub community for developers and learners passionate about Django, Python, Golang, and scalable solutions. 
 
 
