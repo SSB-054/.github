@@ -1,6 +1,6 @@
 ## Invitation to Join
 
-**Dear Future Innovator,**
+**Dear developer,**
 
 Are you ready to:
 - Write code that matters?
