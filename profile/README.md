@@ -12,9 +12,8 @@ The "054" represents an ambitious goal of maintaining and contributing to 54 mea
 
 
 ### Who can join us?
-Interested in contributing to open-source projects? ![Click here](../INVITATION.md)
+Interested in contributing to open-source projects? [Fill this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdPRCNhbDHR0cQZmTuG0PcTSQzG2fq2nhvHM28svWsClJnVBQ/viewform)
 
 
 Links
 - ![CODE_OF_CONDUCT](../CODE_OF_CONDUCT.md)
-- ![INVITATION](../INVITATION.md)
